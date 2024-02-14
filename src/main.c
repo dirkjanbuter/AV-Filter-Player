@@ -4,10 +4,6 @@
 #include "imgbuffer.h"
 #include "videodecoder.h"
 
-#define PACK_NUM 8
-#define LAYERS_NUM 1
-#define SHARP_NUM 0xff
-
 static int _w = 0;
 static int _h = 0;
 static int _framecount = 0;

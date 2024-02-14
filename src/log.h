@@ -15,12 +15,4 @@ CRESULT log_create(char *filename, int (*logfuncptr)(char *));
 void log_destroy();
 CRESULT log_msg(char *message);
 
-
-
-
-
-
-
-
-
 #endif
